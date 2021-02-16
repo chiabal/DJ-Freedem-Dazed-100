@@ -1,2 +1,2 @@
 # DJ-Freedem-Dazed-100
-article page built on HTML and CSS
+page about DJ Freedem built in HTML and CSS
